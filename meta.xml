@@ -1,0 +1,8 @@
+<meta>
+    <info author="HumaneWolf" version="0.0.1" name="Freeroam Ferry" description="Replaces a bridge with a moving ferry. WIP." type="map" />
+    <script src="ferry_s.lua" type="server"></script>
+    <script src="ferry_c.lua" type="client"></script>
+    <map src="freeroam-ferry.map" dimension="0"></map>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>
